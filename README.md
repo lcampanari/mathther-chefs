@@ -1,5 +1,5 @@
 # mathther-chefs
-2019 McGill Physics Hackathon project
+2019 McGill Physics Hackathon project built with Node, React and Python.
 
 ## Setup Python assets
 
